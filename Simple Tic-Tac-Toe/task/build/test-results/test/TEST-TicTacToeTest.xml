@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TicTacToeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-31T16:56:37" hostname="JHNFRANKZ" time="0.168">
+<testsuite name="TicTacToeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-31T17:15:26" hostname="JHNFRANKZ" time="0.156">
   <properties/>
-  <testcase name="start" classname="TicTacToeTest" time="0.168"/>
+  <testcase name="start" classname="TicTacToeTest" time="0.156"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Enter cells: > XXXOO__O_
