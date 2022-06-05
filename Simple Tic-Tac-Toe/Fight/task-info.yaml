@@ -456,13 +456,9 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/5401#comment
-status: Failed
+status: Solved
 feedback:
-  message: "Exception in test #1\n\njava.lang.StringIndexOutOfBoundsException: String\
-    \ index out of range: 3\r\n\tat java.base/java.lang.StringLatin1.charAt(StringLatin1.java:48)\r\
-    \n\tat java.base/java.lang.String.charAt(String.java:1515)\r\n\tat tictactoe.Main.main(Main.java:16)\n\
-    \nPlease find below the output of your program during this failed test.\nNote\
-    \ that the &#39;&gt;&#39; character indicates the beginning of the input line.\n\
-    \n---\n\nEnter cells: &gt; 1 1"
-  time: Wed, 01 Jun 2022 16:06:59 UTC
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Sun, 05 Jun 2022 22:49:14 UTC
 record: 5
